@@ -70,11 +70,11 @@ const HouseDetails = () => {
         <table className="min-w-full bg-white shadow-md rounded-lg">
           <thead>
             <tr className="bg-gray-800 text-white">
-              <th className="text-left py-3 px-4">#</th>
+              <th className="text-left py-3 px-4">S No</th>
               <th className="text-left py-3 px-4">Image</th>
               <th className="text-left py-3 px-4">Address</th>
-              <th className="text-left py-3 px-4">City</th>
-              <th className="text-left py-3 px-4">Owner</th>
+              <th className="text-left py-3 px-4">House</th>
+              <th className="text-left py-3 px-4">Deposit</th>
               <th className="text-left py-3 px-4">Price</th>
               <th className="text-left py-3 px-4">Status</th>
               <th className="text-left py-3 px-4">Actions</th>
