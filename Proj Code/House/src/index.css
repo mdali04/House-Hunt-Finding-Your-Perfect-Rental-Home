@@ -1,9 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-
-.slow-animation {
-    animation-duration: 2s; /* Slower animation, adjust the time as needed */
-    animation-timing-function: ease-in-out; /* Smooth transition */
-}
